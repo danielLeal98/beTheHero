@@ -32,17 +32,6 @@ Este projeto específico tem como objetivo principal ajudar as ONGs. Por isso, f
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## :heart_eyes: Como usar
-
-#### :keyboard: Backend
-
-Veja como o Backend funciona e como usar nesta página: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend#backend)
-
-#### 💻 Frontend
-
-Veja como o FrontEnd funciona e como usar nesta página: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend#frontend)
-
-
 ## :pencil: Autor
 
 <table>
