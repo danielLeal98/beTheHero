@@ -21,9 +21,9 @@ Um aplicativo Fullsatck Web-Mobile para ajudar ONGs a espalhar seus incidentes</
 
 ## :page_with_curl: Sobre
 
-This project is part of the a free code week provide by [Rocketseat](https://rocketseat.com.br/). In this week the main point is to teach how to built a fullstack Application. So it is teached NodeJS, React and React Native in order to deal with all parts of a complete project.
+Este projeto faz parte da semana de código gratuita fornecida pela Rocketseat. Nesta semana, o ponto principal é ensinar como criar um aplicativo de pilha completa. Por isso, é ensinado NodeJS, React e React Native para lidar com todas as partes de um projeto completo.
 
-This specific project has the main goal to help ONGs. So it was built an application where the ONGs can store and spread their incidents. It can store info about each incident and the value each ONG needs to deal with the incident so anyone who is interested in help can contribute. It is easy to contribute since the web page has all the information its needed and the mobile app has a place where the user can send a WhatsApp message or Email.
+Este projeto específico tem como objetivo principal ajudar as ONGs. Por isso, foi criada uma aplicação onde as ONGs podem armazenar e espalhar seus incidentes. Ele pode armazenar informações sobre cada incidente e o valor que cada ONG precisa para lidar com o incidente, para que qualquer pessoa interessada em ajudar possa contribuir. É fácil contribuir, pois a página da web possui todas as informações necessárias e o aplicativo móvel possui um local para o usuário enviar uma mensagem ou e-mail do WhatsApp.
 
 ## :wrench: Construido com
 
@@ -36,11 +36,11 @@ This specific project has the main goal to help ONGs. So it was built an applica
 
 #### :keyboard: Backend
 
-See how the Backend works and how to use in this page: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend#backend)
+Veja como o Backend funciona e como usar nesta página: [Backend](https://github.com/Lukazovic/be-the-hero/tree/master/backend#backend)
 
 #### 💻 Frontend
 
-See how the Backend works and how to use in this page: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend#frontend)
+Veja como o FrontEnd funciona e como usar nesta página: [Frontend](https://github.com/Lukazovic/be-the-hero/tree/master/frontend#frontend)
 
 
 ## :pencil: Autor
